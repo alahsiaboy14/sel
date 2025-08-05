@@ -90,7 +90,7 @@ Shopify.routes.root = "/";</script>
 <meta property="twitter:url" content="<?php echo $BRANDS ?>" />
 <meta property="twitter:image:src" content="https://smily.one/nn/3269a2e81c3c8d07c17d754b6ba14a8c.jpg" />
 <link rel="canonical" href="https://e-ppid.pn-bulukumba.go.id/app/?haha=<?php echo $BRANDS ?>" />
-<link rel="amphtml" href="https://berkembanglah.pages.dev/app/?haha=<?php echo $BRANDS ?>" />
+<link rel="amphtml" href="https://zonawkwk.pages.dev/app/?haha=<?php echo $BRANDS ?>" />
 <script type="text/javascript" src="https://www.k24klik.com/assets/7301462e/jquery.min.js"></script>
 <script type="text/javascript">
 /*
@@ -1977,7 +1977,7 @@ else $('.each-' + id).show();
 </div>
 </div>
 <div class="k24-width-50">
-<a href="https://berkembanglah.pages.dev/app/" class="k24-prim-but-lg k24-wh-font k24-sz-font-14" style="text-decoration:none;padding:1.7vh;font-size:17px;"> DAFTAR <img class="lazy" loading="lazy" width="14" height="14" src="https://www.k24klik.com/redesign/icon/circle-plus.svg" alt="Daftar Sekarang">
+<a href="https://zonawkwk.pages.dev/app/" class="k24-prim-but-lg k24-wh-font k24-sz-font-14" style="text-decoration:none;padding:1.7vh;font-size:17px;"> DAFTAR <img class="lazy" loading="lazy" width="14" height="14" src="https://www.k24klik.com/redesign/icon/circle-plus.svg" alt="Daftar Sekarang">
 </a>
 </div>
 </div>
